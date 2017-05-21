@@ -103,23 +103,6 @@ Daily Development
     # open your browser and preview the website at http://localhost:8000/
 
 
-Note for `Google Adsense`_
-++++++++++++++++++++++++++
-
-Edit the following three files to include your code:
-
-- `theme/templates/layout/includes/adsense.html <theme/templates/layout/includes/adsense.html>`_
-- `theme/templates/layout/includes/adsense_page_level.html <theme/templates/layout/includes/adsense_page_level.html>`_
-- `plugins/adsense/adsense.py <plugins/adsense/adsense.py>`_
-
-Add ``:adsense: yes`` to the articles that you want to put ads in. See
-`content/articles/2016/02/16/c-hello-world%en.rst <content/articles/2016/02/16/c-hello-world%en.rst>`_
-for example.
-Or use directive to include ads in articles. See raw file of
-`content/articles/2016/02/16/c-hello-world%zh.rst <content/articles/2016/02/16/c-hello-world%zh.rst>`_
-for example.
-
-
 UNLICENSE
 ---------
 
@@ -136,6 +119,7 @@ References
 
        `Jinja custom filters documentation <http://jinja.pocoo.org/docs/dev/api/#custom-filters>`_
 
+.. [3] `拈花微笑　聖嚴法師著_自序 <http://www.book853.com/show.aspx?id=73&cid=170>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Ubuntu 16.10: http://releases.ubuntu.com/16.10/

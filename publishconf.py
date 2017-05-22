@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # no trailing /
-SITEURL = 'https://USERNAME.github.io'
+SITEURL = 'https://siongui.github.io/master-sheng-yen-collection'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None

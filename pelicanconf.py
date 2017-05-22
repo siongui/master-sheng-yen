@@ -63,8 +63,8 @@ PLUGINS = ['i18n_subsites',
            'embed_picasaweb_image']
 
 # custom setting for HTML meta info
-META_KEYWORDS = 'YOUR META KEYWORDS'
-META_DESCRIPTION = 'YOUR META DESCRIPTION'
+META_KEYWORDS = '聖嚴法師'
+META_DESCRIPTION = '聖嚴法師'
 
 """
 # mapping: language_code -> settings_overrides_dict
@@ -94,7 +94,7 @@ I18N_UNTRANSLATED_ARTICLES = 'remove'
 PAGE_ORDER_BY = 'order'
 
 # CONTENT_DIR_URL is the setting for edit_on_github plugin
-CONTENT_DIR_URL = u'https://github.com/USERNAME/REPO/tree/master/content'
+CONTENT_DIR_URL = u'https://github.com/siongui/master-sheng-yen-collection/tree/master/content'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

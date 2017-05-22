@@ -2,15 +2,13 @@
 How to Develope
 ===============
 
-.. image:: https://travis-ci.org/USERNAME/REPO.png?branch=master
-    :target: https://travis-ci.org/USERNAME/REPO
+.. image:: https://travis-ci.org/siongui/master-sheng-yen-collection.png?branch=master
+    :target: https://travis-ci.org/siongui/master-sheng-yen-collection
 
-.. See how to add travis ci image from https://raw.githubusercontent.com/demizer/go-rst/master/README.rst
-   https://github.com/demizer/go-rst/commit/9651ab7b5acc997ea2751845af9f2d6efee825df
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 16.10`_
+Development Environment: `Ubuntu 17.04`_
 
 
 First-time Setup
@@ -115,14 +113,16 @@ References
 
 .. [1] `Deploy Website by Pelican, Travis CI, and GitHub Pages <https://siongui.github.io/2016/01/05/deploy-website-by-pelican-travis-ci-github-pages/>`_
 
-.. [2] JINJA_FILTERS in `Settings — Pelican documentation <http://docs.getpelican.com/en/latest/settings.html>`_
-
-       `Jinja custom filters documentation <http://jinja.pocoo.org/docs/dev/api/#custom-filters>`_
+.. [2] | JINJA_FILTERS in `Settings — Pelican documentation <http://docs.getpelican.com/en/latest/settings.html>`_
+       | `Jinja custom filters documentation <http://jinja.pocoo.org/docs/dev/api/#custom-filters>`_
 
 .. [3] `拈花微笑　聖嚴法師著_自序 <http://www.book853.com/show.aspx?id=73&cid=170>`_
 
+.. [4] | `How to set up TravisCI for projects that push back to github · GitHub <https://gist.github.com/willprice/e07efd73fb7f13f917ea>`_
+       | `Tips — Pelican documentation <http://docs.getpelican.com/en/latest/tips.html#publishing-to-github>`_
+
 .. _Pelican: http://blog.getpelican.com/
-.. _Ubuntu 16.10: http://releases.ubuntu.com/16.10/
+.. _Ubuntu 17.04: http://releases.ubuntu.com/17.04/
 .. _UNLICENSE: http://unlicense.org/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip

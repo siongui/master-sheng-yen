@@ -120,6 +120,8 @@ References
 
 .. [4] | `How to set up TravisCI for projects that push back to github · GitHub <https://gist.github.com/willprice/e07efd73fb7f13f917ea>`_
        | `Tips — Pelican documentation <http://docs.getpelican.com/en/latest/tips.html#publishing-to-github>`_
+       | `GitHub Pages Deployment - Travis CI <https://docs.travis-ci.com/user/deployment/pages/>`_
+       | `Deploy gh-pages via Travis cheatsheet <http://ricostacruz.com/cheatsheets/travis-gh-pages.html>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Ubuntu 17.04: http://releases.ubuntu.com/17.04/

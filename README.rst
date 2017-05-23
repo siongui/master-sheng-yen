@@ -2,8 +2,8 @@
 How to Develope
 ===============
 
-.. image:: https://travis-ci.org/siongui/master-sheng-yen-collection.png?branch=master
-    :target: https://travis-ci.org/siongui/master-sheng-yen-collection
+.. image:: https://travis-ci.org/siongui/master-sheng-yen.png?branch=master
+    :target: https://travis-ci.org/siongui/master-sheng-yen
 
 
 Development Tool: Pelican_ (static site generator written in Python)

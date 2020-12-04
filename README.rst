@@ -2,13 +2,15 @@
 How to Develope
 ===============
 
-.. image:: https://travis-ci.org/siongui/master-sheng-yen.png?branch=master
+.. .. image:: https://travis-ci.org/siongui/master-sheng-yen.png?branch=master
     :target: https://travis-ci.org/siongui/master-sheng-yen
 
+.. image:: https://github.com/siongui/master-sheng-yen/workflows/Pelican%20site%20CI/badge.svg
+    :target: https://github.com/siongui/master-sheng-yen/blob/master/.github/workflows/pelican.yml
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 17.04`_
+Development Environment: `Ubuntu 20.04`_
 
 
 First-time Setup
@@ -59,6 +61,12 @@ First-time Setup
 
      $ cd ~/dev/YOUR_REPO/
      $ make scss
+
+
+Auto-deploy by GitHub Actions
+-----------------------------
+
+See `workflow file <.github/workflows/pelican.yml>`_.
 
 
 Auto-deploy by `Travis CI`_
@@ -124,7 +132,7 @@ References
        | `Deploy gh-pages via Travis cheatsheet <http://ricostacruz.com/cheatsheets/travis-gh-pages.html>`_
 
 .. _Pelican: http://blog.getpelican.com/
-.. _Ubuntu 17.04: http://releases.ubuntu.com/17.04/
+.. _Ubuntu 20.04: https://releases.ubuntu.com/20.04/
 .. _UNLICENSE: http://unlicense.org/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
